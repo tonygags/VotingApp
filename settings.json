@@ -1,0 +1,10 @@
+{
+  "admins" : [
+    "admin@ladmin.com",
+    "admin@ladmin.co",
+    "admin@ladmin.c"
+  ],
+  "public": {
+    
+  }
+}
