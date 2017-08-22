@@ -17,6 +17,7 @@ const ItemsSchema = new SimpleSchema({
   }
 });
 
+
 Items.attachSchema(ItemsSchema);
 
 
